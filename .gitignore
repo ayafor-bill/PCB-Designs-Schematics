@@ -26,3 +26,18 @@ Project Outputs*/
 
 # Folder to save each comparison results
 CompareHistory/
+
+# KiCad
+*.bak
+*.tmp
+*.dcm
+_fp-info-cache
+*.kicad_prl
+
+# Eagle / general
+*.lck
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
